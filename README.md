@@ -17,8 +17,7 @@ are organized into multi-level packages and have external dependencies.
 
 This is an implementation of a GUI application in Java using JavaFX 11 that displays a 
 gallery of images based on the results of a search query to the 
-[iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/#searching).
-I utilized and accessed the API by using a combination of JSON and JavaScript.
+iTunes Search API.I utilized and accessed the API by using a combination of JSON and JavaScript.
 This project helped me learn about concepts such as inheritance, threads, polymorphism, and interfaces. 
 
 ![screenshot1](https://i.imgur.com/eUh0NbF.png)

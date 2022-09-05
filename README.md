@@ -23,6 +23,4 @@ This project helped me learn about concepts such as inheritance, threads, polymo
 
 ![screenshot1](https://i.imgur.com/eUh0NbF.png)
 
-## How To Use
-
 

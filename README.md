@@ -2,7 +2,7 @@
 
 
 
-## Course-Specific Learning Outcomes
+## Concepts and Skills Showcased
 
 * **LO1.d:**	How to use shell commands to compile new and existing software solutions that
 are organized into multi-level packages and have external dependencies.
